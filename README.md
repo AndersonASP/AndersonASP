@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### I'm Anderson Alves, a simple FRONTEND developer 💙!
 
 - 🔭 I’m currently working in <a href="https://spread.com.br/en/home/">Spread Tecnologia</a>
-- 🌱 I'm an angular expert
+- 🌱 I'm an angular developer
 
 <div align="center">
   <a href="https://github.com/AndersonASP">
