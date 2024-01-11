@@ -43,3 +43,4 @@ In my professional journey, I've proudly served as a Front-end Technical Lead as
 
 ## 🌐 Socials:
 <a href="https://www.instagram.com/_andersonasp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anderson-asp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
